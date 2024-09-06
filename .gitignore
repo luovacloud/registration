@@ -6,3 +6,5 @@
 /tests/coverage-html
 /tests/.phpunit.result.cache
 /vendor
+
+.venv/
